@@ -180,13 +180,6 @@ Player.prototype.drawAllBullets = function () {
 
 
 
-
-
-
-
-
-
-
 function Bullet() {
 	this.radius = 2;
 	this.width = this.radius * 2;
